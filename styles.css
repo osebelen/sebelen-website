@@ -6,3 +6,4 @@
 @media(prefers-reduced-motion:no-preference){.intro{animation:arrive .6s ease-out both}@keyframes arrive{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}}
 
 .bowling h2{margin-bottom:8px}.bowling .bowling-location{font-size:.9375rem;line-height:1.6;color:#c9ced7;margin:0 0 23px}
+.bowling .bowling-notice{font-size:1rem;line-height:1.65;color:#eef0f4;margin:0 0 16px}.bowling .bowling-notice:last-of-type{margin-bottom:23px}
